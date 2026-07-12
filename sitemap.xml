@@ -11,6 +11,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://futebol.bifrost-solutions.com/posts/o-paradoxo-de-scaloni-quando-a-vitoria-nao-esconde-as-fissuras-no-traje-do-campeao.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://futebol.bifrost-solutions.com/posts/o-gigantismo-devorador-por-que-uma-copa-com-64-selecoes-pode-ser-o-fim-da-mistica-do-futebol.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
